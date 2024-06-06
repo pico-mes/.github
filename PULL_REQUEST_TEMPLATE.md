@@ -5,6 +5,7 @@
 - [ ] Hotfix
 - [ ] Security patch
 - [ ] Documentation update
+- [ ] Maintenance - remove unused code, dependency updates, misc cleanup that does not require a flag
 
 ## Description
 [Clickup Ticket]
